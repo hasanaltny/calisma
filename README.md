@@ -1,1 +1,1 @@
-# calisma
+Çalışma tamamlandı.
